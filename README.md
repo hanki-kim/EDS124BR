@@ -8,4 +8,5 @@ Events: Monkey: https://youtu.be/tcL8P36lMXw <br>
 Variables: Shapes: https://youtu.be/OJtXnZaYE24 <br>
 Conditionals: Ball Game: https://youtu.be/MNkB_-Lp5Ug <br>
 If-Else: Ball Target Game: https://youtu.be/jjoDNbyaDy4 <br>
-Nested If-Else: Penguin: https://youtu.be/Ye-bH8U70ng
+Nested If-Else: Penguin: https://youtu.be/Ye-bH8U70ng <br>
+Compound Conditionals: Treasure Hunt: https://youtu.be/vIsYdDN5wpc
